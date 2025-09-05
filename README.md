@@ -1,2 +1,2 @@
 # Priyanshu
-This is my college Git repository 
+This is my FirstGit repository 
